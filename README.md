@@ -1,7 +1,7 @@
 # educational-works
 public
 # first one
- [b站](bilibili.com)
+ [b站](https://www.bilibili.com/)
 
 
 
